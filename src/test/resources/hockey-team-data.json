@@ -1,0 +1,241 @@
+[ {
+  "Team name" : "Buffalo Sabres",
+  "Losses" : "30",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795805612",
+  "Wins" : "31",
+  "WinPercentage" : "0.388"
+}, {
+  "Team name" : "Hartford Whalers",
+  "Losses" : "38",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795805863",
+  "Wins" : "31",
+  "WinPercentage" : "0.388"
+}, {
+  "Team name" : "Minnesota North Stars",
+  "Losses" : "39",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795805981",
+  "Wins" : "27",
+  "WinPercentage" : "0.338"
+}, {
+  "Team name" : "New York Islanders",
+  "Losses" : "45",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795806895",
+  "Wins" : "25",
+  "WinPercentage" : "0.312"
+}, {
+  "Team name" : "Quebec Nordiques",
+  "Losses" : "50",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795807107",
+  "Wins" : "16",
+  "WinPercentage" : "0.2"
+}, {
+  "Team name" : "Toronto Maple Leafs",
+  "Losses" : "46",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795807196",
+  "Wins" : "23",
+  "WinPercentage" : "0.287"
+}, {
+  "Team name" : "Vancouver Canucks",
+  "Losses" : "43",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795807234",
+  "Wins" : "28",
+  "WinPercentage" : "0.35"
+}, {
+  "Team name" : "Winnipeg Jets",
+  "Losses" : "43",
+  "Year" : "1990",
+  "Ot losses" : "",
+  "epochTime" : "1722795807329",
+  "Wins" : "26",
+  "WinPercentage" : "0.325"
+}, {
+  "Team name" : "Buffalo Sabres",
+  "Losses" : "37",
+  "Year" : "1991",
+  "Ot losses" : "",
+  "epochTime" : "1722795807423",
+  "Wins" : "31",
+  "WinPercentage" : "0.388"
+}, {
+  "Team name" : "Calgary Flames",
+  "Losses" : "37",
+  "Year" : "1991",
+  "Ot losses" : "",
+  "epochTime" : "1722795807462",
+  "Wins" : "31",
+  "WinPercentage" : "0.388"
+}, {
+  "Team name" : "Hartford Whalers",
+  "Losses" : "41",
+  "Year" : "1991",
+  "Ot losses" : "",
+  "epochTime" : "1722795809872",
+  "Wins" : "26",
+  "WinPercentage" : "0.325"
+}, {
+  "Team name" : "Quebec Nordiques",
+  "Losses" : "48",
+  "Year" : "1991",
+  "Ot losses" : "",
+  "epochTime" : "1722795810271",
+  "Wins" : "20",
+  "WinPercentage" : "0.25"
+}, {
+  "Team name" : "San Jose Sharks",
+  "Losses" : "58",
+  "Year" : "1991",
+  "Ot losses" : "",
+  "epochTime" : "1722795810309",
+  "Wins" : "17",
+  "WinPercentage" : "0.212"
+}, {
+  "Team name" : "Toronto Maple Leafs",
+  "Losses" : "43",
+  "Year" : "1991",
+  "Ot losses" : "",
+  "epochTime" : "1722795810382",
+  "Wins" : "30",
+  "WinPercentage" : "0.375"
+}, {
+  "Team name" : "Edmonton Oilers",
+  "Losses" : "50",
+  "Year" : "1992",
+  "Ot losses" : "",
+  "epochTime" : "1722795810756",
+  "Wins" : "26",
+  "WinPercentage" : "0.31"
+}, {
+  "Team name" : "Hartford Whalers",
+  "Losses" : "52",
+  "Year" : "1992",
+  "Ot losses" : "",
+  "epochTime" : "1722795810794",
+  "Wins" : "26",
+  "WinPercentage" : "0.31"
+}, {
+  "Team name" : "Ottawa Senators",
+  "Losses" : "70",
+  "Year" : "1992",
+  "Ot losses" : "",
+  "epochTime" : "1722795812496",
+  "Wins" : "10",
+  "WinPercentage" : "0.119"
+}, {
+  "Team name" : "San Jose Sharks",
+  "Losses" : "71",
+  "Year" : "1992",
+  "Ot losses" : "",
+  "epochTime" : "1722795812666",
+  "Wins" : "11",
+  "WinPercentage" : "0.131"
+}, {
+  "Team name" : "Tampa Bay Lightning",
+  "Losses" : "54",
+  "Year" : "1992",
+  "Ot losses" : "",
+  "epochTime" : "1722795812738",
+  "Wins" : "23",
+  "WinPercentage" : "0.274"
+}, {
+  "Team name" : "Mighty Ducks of Anaheim",
+  "Losses" : "46",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795812992",
+  "Wins" : "33",
+  "WinPercentage" : "0.393"
+}, {
+  "Team name" : "Edmonton Oilers",
+  "Losses" : "45",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795813308",
+  "Wins" : "25",
+  "WinPercentage" : "0.298"
+}, {
+  "Team name" : "Florida Panthers",
+  "Losses" : "34",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795814716",
+  "Wins" : "33",
+  "WinPercentage" : "0.393"
+}, {
+  "Team name" : "Hartford Whalers",
+  "Losses" : "48",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795814750",
+  "Wins" : "27",
+  "WinPercentage" : "0.321"
+}, {
+  "Team name" : "Los Angeles Kings",
+  "Losses" : "45",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795814791",
+  "Wins" : "27",
+  "WinPercentage" : "0.321"
+}, {
+  "Team name" : "Ottawa Senators",
+  "Losses" : "61",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795814979",
+  "Wins" : "14",
+  "WinPercentage" : "0.167"
+}, {
+  "Team name" : "San Jose Sharks",
+  "Losses" : "35",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795815117",
+  "Wins" : "33",
+  "WinPercentage" : "0.393"
+}, {
+  "Team name" : "Tampa Bay Lightning",
+  "Losses" : "43",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795815186",
+  "Wins" : "30",
+  "WinPercentage" : "0.357"
+}, {
+  "Team name" : "Winnipeg Jets",
+  "Losses" : "51",
+  "Year" : "1993",
+  "Ot losses" : "",
+  "epochTime" : "1722795815334",
+  "Wins" : "24",
+  "WinPercentage" : "0.286"
+}, {
+  "Team name" : "Mighty Ducks of Anaheim",
+  "Losses" : "27",
+  "Year" : "1994",
+  "Ot losses" : "",
+  "epochTime" : "1722795815368",
+  "Wins" : "16",
+  "WinPercentage" : "0.333"
+}, {
+  "Team name" : "Dallas Stars",
+  "Losses" : "23",
+  "Year" : "1994",
+  "Ot losses" : "",
+  "epochTime" : "1722795815547",
+  "Wins" : "17",
+  "WinPercentage" : "0.354"
+} ]

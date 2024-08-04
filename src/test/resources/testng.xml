@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="demo.testcase"></class>
+                <methods>
+                    <include name = "scrapeHockeyTeamData"/>
+                    <include name = "scrapeWinningFilmsData"/>
+                </methods>
+        </classes>
+    </test>
+</suite>
